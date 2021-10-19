@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dmcguinness37
+- 👀 I’m interested in raspberry pi, retropie, and python.
+- 🌱 I’m currently learning raspberry pi, linux, and python.
+- 📫 Reach me here.
